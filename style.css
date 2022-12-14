@@ -1,0 +1,51 @@
+.navbar-brand {
+	color: gray;
+	font-family: copperplate;
+	font-size: 1.75em;
+}
+.navbar-brand:hover {
+	color: rgb(48,148,33);
+}
+#nav-barrr {
+	justify-content: flex-end;
+}
+.nav-link {
+	color: gray;
+	font-family: DIN Alternate Bold;
+	font-weight: bold;
+	font-size: 1em;
+}
+.nav-link:hover {
+	color: rgb(48,148,33);
+}
+.bg-dark {
+	background-color: black;
+}
+h1 {
+	text-align: center;
+	padding-top: 1em;
+	font-family: copperplate;
+}
+p {
+	text-align: center;
+	padding-bottom: 3em;
+}
+.introparagraph {
+	padding-left: 15em;
+	padding-right: 15em;
+
+}
+
+.allglobalnav {
+	background-color: black;
+}
+.card a {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+
+
+
